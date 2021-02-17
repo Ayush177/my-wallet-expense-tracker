@@ -1,5 +1,10 @@
 # expense_tracker
 
+## Project is hosted at
+```
+https://my-wallet-expense-tracker.herokuapp.com/
+```
+
 ## Project setup
 ```
 npm install
